@@ -78,6 +78,7 @@ Functions implemented:
 - NAND
 - NOT X1
 - NOT X2
+
 The MLP demonstrates how multiple layers can implement functions that cannot be implemented by a single perceptron.
 ---
 
