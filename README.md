@@ -41,6 +41,7 @@ Functions tested:
 - NOR
 - XOR
 - XNOR
+
 The results demonstrate that a single perceptron can learn linearly separable functions but cannot learn XOR and XNOR.
 ---
 
@@ -72,6 +73,7 @@ Functions implemented:
 - NAND
 - NOT X1
 - NOT X2
+
 The MLP demonstrates how multiple layers can implement functions that cannot be implemented by a single perceptron.
 ---
 
